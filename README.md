@@ -6,7 +6,7 @@ We will going to use DCGAN to build a generator from Fashion MNIST DATASET
 
 ## License
 
-The MIT License (MIT). Please see the [license file](LICENSE) for more information.
+The Apache License . Please see the [license file](LICENSE) for more information.
 
 ## References
 - https://github.com/R-Suresh/GAN_fashion_MNIST/blob/master/gan.py
